@@ -52,7 +52,4 @@ Feel free to explore, collaborate, or just say hi! 😄
 ---
 
 <p align="center">
-  [![](https://visitcount.itsvg.in/api?id=peanutpirate&icon=0&color=0)](https://visitcount.itsvg.in)
-</p>
 
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
