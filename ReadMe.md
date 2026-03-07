@@ -30,14 +30,3 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on: Mini Python projects 🛠️ & data dashboards 📈
-- 🌱 I’m currently learning: SQL 🗄️, Power BI 📊 & TensorFlow ⚡
-- 👯 I’m looking to collaborate on: Open-source projects 🤝 & beginner-friendly apps 📱
-- 🤔 I’m looking for help with: Advanced Python 🧠, ML concepts 🤖 & GitHub workflows ⚙️
-- 💬 Ask me about: Coding projects 💻, productivity hacks 📝 & data organization 🗂️
-- 📫 How to reach me: [your email or social link]
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I can write “Hello World” in 3+ programming languages in under a minute! 🎯
