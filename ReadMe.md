@@ -10,7 +10,7 @@ Feel free to explore, collaborate, or just say hi! 😄
 - 👯 I’m looking to collaborate on: Open-source projects 🤝 & beginner-friendly apps 📱
 - 🤔 I’m looking for help with: Advanced Python 🧠, ML concepts 🤖 & GitHub workflows ⚙️
 - 💬 Ask me about: Coding projects 💻, productivity hacks 📝 & data organization 🗂️
-- 📫 How to reach me: [your email or social link]
+- 📫 How to reach me: melisegmen@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can write “Hello World” in 3+ programming languages in under a minute! 🎯
 
